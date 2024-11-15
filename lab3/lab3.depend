@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1729702175 source:c:\rezolvari\lab3\main.cpp
+	<iostream>
+	"mystring.h"
+
+1729702232 c:\rezolvari\lab3\mystring.h
+
+1729701795 source:c:\rezolvari\lab3\mystring.cpp
+	<iostream>
+	<string.h>
+	"mystring.h"
+

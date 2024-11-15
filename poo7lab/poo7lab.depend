@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1731513731 source:c:\rezolvari\poo7lab\companie.cpp
+
+1731513806 source:c:\rezolvari\poo7lab\companieauto.cpp
+
+1731513897 source:c:\rezolvari\poo7lab\reprezentantaauto.cpp
+
+1731520122 source:c:\rezolvari\poo7lab\main.cpp
+	<iostream>
+	"ReprezentantaAuto.h"
+
+1731518947 c:\rezolvari\poo7lab\companieauto.h
+	"Companie.h"
+	<string>
+
+1731520015 c:\rezolvari\poo7lab\companie.h
+	<iostream>
+	<cstring>
+
+1731520158 c:\rezolvari\poo7lab\reprezentantaauto.h
+	"CompanieAuto.h"
+

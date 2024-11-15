@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1730309912 source:c:\rezolvari\lab4\bilet_eveniment.cpp
+	<iostream>
+	<cstring>
+	"Bilet_eveniment.h"
+
+1730306821 source:c:\rezolvari\lab4\detalii.cpp
+	<iostream>
+	<cstring>
+	"Detalii.h"
+
+1730307778 c:\rezolvari\lab4\detalii.h
+	<iostream>
+
+1730309827 source:c:\rezolvari\lab4\main.cpp
+	"Bilet_eveniment.h"
+
+1730309898 c:\rezolvari\lab4\bilet_eveniment.h
+	<iostream>
+	"Detalii.h"
+

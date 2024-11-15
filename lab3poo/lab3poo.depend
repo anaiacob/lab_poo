@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1729681754 source:c:\rezolvari\lab3poo\main.cpp
+	<iostream>
+	"fractie.h"
+
+1729680593 c:\rezolvari\lab3poo\fractie.h
+
+1729682000 source:c:\rezolvari\lab3poo\fractie.cpp
+	<iostream>
+	"fractie.h"
+	<stdlib.h>
+	<cstring>
+
