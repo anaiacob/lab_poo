@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1733319693 source:c:\rezolvari\lab9\student.cpp
+
+1733319049 source:c:\rezolvari\lab9\angajat.cpp
+
+1733319061 source:c:\rezolvari\lab9\student_angajat.cpp
+
+1733319328 source:c:\rezolvari\lab9\bon.cpp
+
+1733320089 source:c:\rezolvari\lab9\main.cpp
+	<iostream>
+	"Bon.h"
+	"Student.h"
+
+1733319668 c:\rezolvari\lab9\bon.h
+	<iostream>
+	<cstring>
+
+1733320174 c:\rezolvari\lab9\student.h
+	<iostream>
+

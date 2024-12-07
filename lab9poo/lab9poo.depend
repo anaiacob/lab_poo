@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1733328325 source:c:\rezolvari\lab9poo\cutie.cpp
+
+1733333590 source:c:\rezolvari\lab9poo\depozit_mixt.cpp
+	"Depozit_mixt.h"
+
+1733330961 source:c:\rezolvari\lab9poo\depozit.cpp
+	"Depozit.h"
+
+1733331933 c:\rezolvari\lab9poo\depozit.h
+	<iostream>
+
+1733328395 source:c:\rezolvari\lab9poo\depozit_tevi.cpp
+
+1733333365 source:c:\rezolvari\lab9poo\main.cpp
+	<iostream>
+	"Depozit_mixt.h"
+
+1733331837 c:\rezolvari\lab9poo\depozit_cutii.h
+	"Cutie.h"
+	"Depozit.h"
+
+1733331837 c:\rezolvari\lab9poo\cutie.h
+	<iostream>
+
+1733333590 source:c:\rezolvari\lab9poo\depozit_cutii.cpp
+	"Depozit_cutii.h"
+
+1733333868 c:\rezolvari\lab9poo\depozit_mixt.h
+	"Depozit_cutii.h"
+	"Depozit_tevi.h"
+	<cstring>
+
+1733332008 c:\rezolvari\lab9poo\depozit_tevi.h
+	"Depozit.h"
+

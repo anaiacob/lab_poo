@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1732719678 source:c:\rezolvari\lab8\bonfiscal.cpp
+	"BonFiscal.h"
+
+1732720720 source:c:\rezolvari\lab8\carte.cpp
+	"Carte.h"
+
+1732721016 source:c:\rezolvari\lab8\main.cpp
+	<iostream>
+	"BonFiscal.h"
+	"Carte.h"
+
+1732719556 source:c:\rezolvari\lab8\document.cpp
+	"Document.h"
+
+1732720818 c:\rezolvari\lab8\document.h
+	<iostream>
+	<string.h>
+
+1732719678 c:\rezolvari\lab8\bonfiscal.h
+	"Document.h"
+
+1732719920 c:\rezolvari\lab8\carte.h
+	"Document.h"
+
