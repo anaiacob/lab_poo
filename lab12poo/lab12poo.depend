@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1734543253 source:c:\rezolvari\lab12poo\main.cpp
+	<iostream>
+	"Imbunatatire.h"
+	"Garnitura.h"
+
+1734541306 c:\rezolvari\lab12poo\imbunatatire.h
+	<iostream>
+	<string>
+
+1734543432 c:\rezolvari\lab12poo\garnitura.h
+	"Locomotiva.h"
+	"Vagon.h"
+	"Imbunatatire.h"
+	<vector>
+
+1734540720 c:\rezolvari\lab12poo\locomotiva.h
+	"Interfata.h"
+
+1734538556 c:\rezolvari\lab12poo\interfata.h
+	<iostream>
+
+1734541529 c:\rezolvari\lab12poo\vagon.h
+	"Interfata.h"
+	<vector>
+	<string>
+
