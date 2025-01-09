@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1736349305 source:c:\rezolvari\lab13poo\track.cpp
+	"Track.h"
+
+1736349604 c:\rezolvari\lab13poo\track.h
+	<iostream>
+	<string.h>
+
