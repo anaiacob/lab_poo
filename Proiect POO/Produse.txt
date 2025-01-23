@@ -1,0 +1,135 @@
+1,Home,MediumSlateBlue,Jackson,Gordonand Rivera,298.53,43,Articol Vestimentar
+2,Fly,Gainsboro,Morris-Hayes,275.25,65,Articol Vestimentar
+3,Hear,Blue,Nash,Martinezand Moore,58.45,51,Articol Vestimentar
+4,Even,CadetBlue,Brown,Kelleyand Kelley,239.28,72,Articol Vestimentar
+5,Statement,Indigo,Baker,Hubbardand West,96.67,10,Articol Vestimentar
+6,Local,Cornsilk,RobinsonLtd,282.99,100,Articol Vestimentar
+7,Executive,SeaShell,Bishop-Mitchell,67.09,76,Articol Vestimentar
+8,Teach,DarkKhaki,MontgomeryGroup,127.78,31,Articol Vestimentar
+9,Him,YellowGreen,Mitchell,BurnsandHenderson,240.25,41,Articol Vestimentar
+10,Floor,DarkCyan,Green,JohnsonandWilliams,231.91,33,Articol Vestimentar
+11,His,GoldenRod,BarnettLLC,96.11,60,Articol Vestimentar
+12,Sing,LightGoldenRodYellow,Green-Gregory,192.91,70,Articol Vestimentar
+13,Central,HoneyDew,Hopkins-Gilbert,109.53,61,Articol Vestimentar
+14,Fear,GoldenRod,MurphyGroup,296.35,32,Articol Vestimentar
+15,Range,WhiteSmoke,Thompson-Garcia,61.71,24,Articol Vestimentar
+16,Chance,LimeGreen,WrightGroup,272.98,58,Articol Vestimentar
+17,After,Maroon,LambertInc,121.07,3,Articol Vestimentar
+18,Hit,SeaGreen,HoganGroup,285.35,94,Articol Vestimentar
+19,Process,Pink,Marsh,HallandBean,235.39,75,Articol Vestimentar
+20,System,Red,Smith-Henderson,298.46,81,Articol Vestimentar
+21,Section,DarkOrchid,PhillipsLtd,102.76,74,Articol Vestimentar
+22,Great,MintCream,GarciaPLC,163.44,17,Articol Vestimentar
+23,Cell,RoyalBlue,Hernandez-Welch,129.32,24,Articol Vestimentar
+24,Him,LimeGreen,Taylor-Jackson,181.05,56,Articol Vestimentar
+25,Carry,LightSkyBlue,Peters-Cook,66.34,50,Articol Vestimentar
+26,Someone,Gainsboro,Douglas,ThompsonandLynch,106.52,11,Articol Vestimentar
+27,Energy,MediumSpringGreen,JohnsonLLC,235.46,32,Articol Vestimentar
+28,Campaign,PaleVioletRed,GouldLtd,207.24,36,Articol Vestimentar
+29,Whatever,HoneyDew,Kelly-Molina,169.98,13,Articol Vestimentar
+30,Agent,Ivory,CarsonInc,117.8,67,Articol Vestimentar
+31,During,LightGray,Luna,BrownandRobinson,66.05,62,Articol Vestimentar
+32,Cultural,DarkGoldenRod,Woods-Blackwell,198.11,16,Articol Vestimentar
+33,Discuss,Sienna,Gonzalez-Gonzalez,80.64,33,Articol Vestimentar
+34,Them,Crimson,Chen,ClarkandThomas,190.5,89,Articol Vestimentar
+35,Fast,Tomato,ReynoldsGroup,104.23,71,Articol Vestimentar
+36,Arm,DarkViolet,Murphy,RamirezandCollins,213.18,83,Articol Vestimentar
+37,Night,MediumSpringGreen,Beltran,ThompsonandHenson,143.35,100,Articol Vestimentar
+38,Federal,Linen,Webb-Allen,223.03,5,Articol Vestimentar
+39,Build,AntiqueWhite,Johnson-Daniels,293.37,43,Articol Vestimentar
+40,He,MediumSpringGreen,Roberts-Parker,186.48,39,Articol Vestimentar
+41,Region,MidnightBlue,Rose,TaylorandOliver,103.47,51,Articol Vestimentar
+42,Sing,CadetBlue,ParsonsPLC,255.23,22,Articol Vestimentar
+43,My,DarkSlateGray,AdamsInc,115.76,77,Articol Vestimentar
+44,Authority,MidnightBlue,Carter-Freeman,280.82,17,Articol Vestimentar
+45,Type,DarkCyan,Smith,RomeroandKramer,108.23,31,Articol Vestimentar
+46,Next,Crimson,Wilson-Morgan,297.57,84,Articol Vestimentar
+47,Live,Azure,Cohen,RamirezandLee,95.16,83,Articol Vestimentar
+48,Leader,DarkSlateGray,Meyer-Freeman,277.25,78,Articol Vestimentar
+49,Enough,DeepSkyBlue,Moore,LittleandMiller,235.11,65,Articol Vestimentar
+50,Involve,LightGreen,Stewart-Bryant,83.61,84,Articol Vestimentar
+51,Clearly,HubbardandSons,2016-11-05,Character,Agreement,104.12,50,Disc
+52,Whether,Griffin-Roberts,2024-01-08,Offer,Goal,179.77,10,Disc
+53,Shoulder,BrewerGroup,2016-05-05,Service,Edge,160.09,20,Disc
+54,Party,Taylor-Anderson,2021-06-08,Go,Part,251.2,18,Disc
+55,Loss,FreemanPLC,2017-02-06,Notice,Human,67.04,16,Disc
+56,Individual,Holloway-Nelson,2021-01-04,Again,Any,150.54,29,Disc
+57,Leave,MillsandSons,2023-05-31,True,Unit,257.29,16,Disc
+58,Again,BoydLLC,2016-08-29,Generation,Management,133.24,14,Disc
+59,Military,Barber,RitterandMontgomery,2023-09-13,Perform,West,103.33,44,Disc
+60,Enter,Jenkins,DavisandCarroll,2021-07-10,However,Stage,273.39,48,Disc
+61,Crime,DukeGroup,2023-07-18,Live,Environment,173.9,36,Disc
+62,Sport,Heath,ThomasandWard,2023-07-08,Strong,Suggest,168.24,25,Disc
+63,Western,Murphy,LeonandCampbell,2019-01-21,Sell,Sell,97.03,30,Disc
+64,Might,Hernandez-Carter,2018-05-22,Will,Choose,73.97,13,Disc
+65,Suffer,HerreraandSons,2022-04-02,Beyond,Trial,240.26,44,Disc
+66,Usually,Villegas-Santiago,2020-11-02,Unit,Still,56.34,14,Disc
+67,Soon,WrightandSons,2021-08-21,Finally,Candidate,246.54,11,Disc
+68,Test,McknightPLC,2016-02-09,Least,Bill,133.46,22,Disc
+69,Security,RobinsonInc,2020-09-02,Individual,Account,102.25,19,Disc
+70,Age,Dennis-Hill,2016-12-15,Part,Owner,106.23,1,Disc
+71,Remain,ThompsonPLC,2017-01-28,Either,Wide,262.01,7,Disc
+72,Technology,Marshall,BarberandMartin,2022-09-22,Organization,Wall,164.2,44,Disc
+73,More,NelsonLtd,2022-06-18,Strong,According,101.84,6,Disc
+74,Put,MataLLC,2019-11-05,Seven,Else,89.98,20,Disc
+75,Chance,Barnes-Daniel,2018-07-25,Rather,Approach,282.81,40,Disc
+76,Still,Dickson,MendezandWest,2021-05-18,Hotel,Decision,282.03,30,Disc
+77,College,Goodwin-Allen,2015-11-08,Image,Let,148.27,16,Disc
+78,Interesting,Miller-Schaefer,2020-12-22,Themselves,Here,268.88,31,Disc
+79,Police,Shaw,BrowningandRhodes,2023-10-14,City,Traditional,89.07,17,Disc
+80,Federal,FosterGroup,2015-10-19,Result,Soon,175.01,21,Disc
+81,Value,Thomas-Garcia,2023-01-16,Candidate,Guess,64.3,35,Disc
+82,Happen,Jones,MathewsandParsons,2019-04-26,Cut,Church,275.03,3,Disc
+83,Note,Martinez-Stanley,2018-10-21,Green,As,227.5,20,Disc
+84,Boy,ToddInc,2018-05-26,Write,Do,160.64,38,Disc
+85,Want,Hamilton,CopelandandHall,2020-07-19,Free,Month,77.69,22,Disc
+86,Audience,CampbellLtd,2022-08-21,Site,Sister,125.51,15,Disc
+87,Home,Taylor,WongandSantos,2017-11-13,Maybe,Interest,124.31,9,Disc
+88,Dream,Lin-Sanchez,2015-09-07,Rule,Movement,244.56,49,Disc
+89,Lay,Solis-Meyer,2018-06-21,Score,Break,255.41,39,Disc
+90,Somebody,TerrellInc,2016-04-25,Kitchen,Learn,150.16,16,Disc
+91,Discuss,Howard-Chambers,2017-06-27,Across,Product,120.74,43,Disc
+92,Stuff,Palmer,MorganandBautista,2024-11-21,Growth,Player,276.61,18,Disc
+93,Hotel,Michael-Campbell,2015-03-20,Front,Actually,221.8,27,Disc
+94,Natural,Ortiz-Medina,2022-03-03,Service,Also,173.87,46,Disc
+95,Least,Contreras,NelsonandMarquez,2015-12-12,Walk,Last,180.06,20,Disc
+96,Material,Roberts,DavisandRusso,2024-04-23,Surface,Building,320.15,17,False,2,Disc Vintage
+97,Authority,Bradshaw,YoungandRodgers,2020-07-12,Lawyer,Lot,199.84,7,True,3,Disc Vintage
+98,Win,SchroederGroup,2023-12-13,Concern,Its,309.76,5,False,2,Disc Vintage
+99,Edge,Brewer-Powers,2022-04-20,Business,None,281.37,29,True,5,Disc Vintage
+100,Set,Williams-Mcclure,2024-08-01,Material,Force,343.68,25,False,5,Disc Vintage
+101,Outside,Murray-Morrison,2019-05-18,Trouble,Prepare,426.72,27,True,1,Disc Vintage
+102,Us,Rodgers-Carrillo,2020-03-17,Over,Choice,487.12,25,False,1,Disc Vintage
+103,Because,Murray,DavisandDavis,2024-06-15,Base,Save,177.53,25,False,5,Disc Vintage
+104,Bill,Mccarty-Brown,2023-09-10,Fire,Writer,159.67,27,False,3,Disc Vintage
+105,Somebody,WilliamsLLC,2023-12-02,Move,Our,324.01,14,True,1,Disc Vintage
+106,Air,Adams,YoungandTorres,2017-08-13,Hold,Help,466.75,25,False,4,Disc Vintage
+107,Staff,Mendoza,OliverandBarnes,2024-03-06,Sister,Maybe,144.12,14,False,3,Disc Vintage
+108,Picture,Jimenez-Clark,2016-01-29,Great,Of,373.69,34,False,5,Disc Vintage
+109,Player,WallerLLC,2023-05-10,Art,Research,295.03,43,False,3,Disc Vintage
+110,Represent,Martin,WeissandWright,2020-03-31,Officer,Artist,224.54,30,False,4,Disc Vintage
+111,Else,HawkinsandSons,2023-09-20,Democrat,Specific,177.71,50,True,3,Disc Vintage
+112,Activity,GilbertPLC,2023-06-13,Process,Various,353.14,9,False,2,Disc Vintage
+113,Push,SpencerPLC,2016-08-08,Development,Ago,326.1,47,False,2,Disc Vintage
+114,Contain,BrownLtd,2016-12-08,Value,Attack,158.23,40,False,3,Disc Vintage
+115,Standard,CastilloGroup,2017-03-16,Answer,Floor,341.38,39,True,2,Disc Vintage
+116,Increase,BookerLLC,2024-11-22,Worry,Exactly,273.58,27,False,2,Disc Vintage
+117,Trip,ThorntonandSons,2021-09-23,From,Suddenly,442.71,11,True,2,Disc Vintage
+118,Court,YoungGroup,2016-07-27,Full,Value,265.82,20,True,1,Disc Vintage
+119,Type,MillerGroup,2022-03-26,Go,Those,386.51,41,False,3,Disc Vintage
+120,Soldier,Bright-Patton,2019-12-20,Offer,Quality,375.05,17,True,1,Disc Vintage
+121,Since,Donovan-Sanchez,2019-07-30,Model,Store,393.59,32,False,1,Disc Vintage
+122,By,King,GallagherandValentine,2020-03-23,According,Evening,405.14,48,True,2,Disc Vintage
+123,Smile,Johns-Ramirez,2021-03-21,Challenge,Building,290.78,6,False,2,Disc Vintage
+124,Specific,ParkInc,2024-05-16,Certainly,State,362.46,32,True,3,Disc Vintage
+125,Especially,BeckerInc,2020-05-05,Plan,Service,198.21,37,False,3,Disc Vintage
+126,Police,Long-Taylor,2021-11-25,Them,Skin,204.98,36,False,5,Disc Vintage
+127,News,HicksPLC,2022-06-16,Ahead,Project,410.11,8,False,4,Disc Vintage
+128,Cultural,WongLLC,2015-08-03,Five,Than,358.66,21,True,4,Disc Vintage
+129,Together,MoranPLC,2020-05-01,Opportunity,My,372.14,23,True,5,Disc Vintage
+130,Thousand,LopezLtd,2022-09-30,Number,Majority,489.98,45,True,4,Disc Vintage
+131,Building,Barnes,GonzalesandThomas,2021-07-05,Win,Report,137.48,4,True,4,Disc Vintage
+132,Public,Garner,SnyderandMunoz,2022-04-23,Measure,One,195.56,13,False,1,Disc Vintage
+133,Summer,Martinez,GeorgeandWright,2019-01-20,Board,Effort,428.18,39,True,5,Disc Vintage
+134,Voice,Mendoza-Foster,2015-04-15,Important,Have,318.94,30,False,1,Disc Vintage
+135,One,JenningsGroup,2022-10-08,Become,Position,271.37,9,False,2,Disc Vintage

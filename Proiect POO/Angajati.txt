@@ -1,0 +1,68 @@
+1,Koch,Paul,2871209405168,2015-06-29,Manager
+2,Baker,Karen,1531214306550,2020-11-01,Manager
+3,Oconnor,Alexis,1510406509192,2017-09-06,Manager
+4,Clark,Cynthia,1950716081083,2016-05-30,Operator Comenzi
+5,Johnson,Douglas,1640117263413,2021-04-20,Operator Comenzi
+6,Bradford,Timothy,2190809320014,2021-10-31,Operator Comenzi
+7,Perry,James,1600123143344,2015-07-15,Operator Comenzi
+8,Copeland,Melissa,2561212150461,2023-11-11,Operator Comenzi
+9,Carlson,Joshua,1511207224086,2015-07-11,Operator Comenzi
+10,Wells,John,1701206307761,2023-09-15,Operator Comenzi
+11,Alvarado,David,2960214365430,2016-02-03,Operator Comenzi
+12,Hill,Christopher,2810123365901,2024-02-21,Operator Comenzi
+13,Russo,Susan,2850307103815,2023-03-20,Operator Comenzi
+14,Higgins,James,2200825259071,2020-01-22,Operator Comenzi
+15,Jenkins,Paul,1000503244549,2015-01-14,Operator Comenzi
+16,Santiago,John,1330107061418,2022-12-10,Operator Comenzi
+17,Armstrong,Carl,2111011336645,2020-09-20,Operator Comenzi
+18,Chavez,Judith,2580414016350,2020-05-26,Operator Comenzi
+19,Williams,Sandra,1771016110869,2016-11-26,Operator Comenzi
+20,Hughes,Tanner,1670325047347,2017-02-17,Operator Comenzi
+21,Lopez,Amy,1661004236611,2018-03-29,Operator Comenzi
+22,Moran,Christina,2790222216927,2018-04-29,Operator Comenzi
+23,Coleman,Laura,2570908126817,2023-03-11,Operator Comenzi
+24,Gray,Brandon,1091022074601,2016-01-13,Operator Comenzi
+25,Young,Kevin,1530512395794,2022-07-21,Operator Comenzi
+26,Barker,Michelle,2960217317372,2015-11-28,Operator Comenzi
+27,Castro,April,1230620500080,2024-08-29,Operator Comenzi
+28,Allen,Lisa,1910411132828,2015-04-10,Operator Comenzi
+29,Rivera,Jacob,2031113445150,2020-12-29,Operator Comenzi
+30,Owens,Destiny,2940204027990,2024-12-10,Operator Comenzi
+31,Williams,Lauren,1270210246987,2015-07-15,Operator Comenzi
+32,Santos,Kaitlyn,2850111362922,2019-11-17,Operator Comenzi
+33,Ward,Kimberly,2521204419732,2016-02-04,Operator Comenzi
+34,Young,Michael,2940516232236,2017-07-12,Operator Comenzi
+35,Rogers,Tamara,1751103466628,2019-06-10,Operator Comenzi
+36,Brock,Craig,1160810020201,2015-02-22,Operator Comenzi
+37,Moreno,Beth,1901210261421,2024-07-24,Operator Comenzi
+38,Williams,Eric,1591019084944,2015-11-23,Operator Comenzi
+39,Oconnor,Stacey,1420109153156,2020-04-20,Operator Comenzi
+40,Espinoza,Austin,1031212303806,2023-06-01,Operator Comenzi
+41,Collins,Alexander,2410307113531,2023-06-28,Operator Comenzi
+42,Goodman,Christina,2201010132214,2018-02-08,Operator Comenzi
+43,Brooks,Laura,1501009085162,2018-08-22,Operator Comenzi
+44,Reed,Matthew,2210427422567,2024-10-16,Operator Comenzi
+45,Campos,Roberta,2531210142247,2016-07-29,Operator Comenzi
+46,Gardner,Lynn,1571216317128,2023-10-07,Operator Comenzi
+47,Keller,Jasmine,1291008301840,2021-01-14,Operator Comenzi
+48,Romero,Bobby,1390610262914,2021-01-13,Operator Comenzi
+49,Miller,Ashley,1710202123002,2022-02-14,Operator Comenzi
+50,Barnes,Amanda,1510222191181,2024-10-09,Operator Comenzi
+51,Brown,Kevin,2510617521448,2023-04-19,Asistent
+52,Singh,Jacob,1670517086202,2017-11-08,Asistent
+53,Garcia,Jacob,2271125288670,2022-01-17,Asistent
+54,Bridges,Christina,1970803425049,2024-05-04,Asistent
+55,Anderson,Peter,1810223369837,2023-03-09,Asistent
+56,Dawson,Brittney,2931112072217,2021-02-14,Asistent
+57,Dunn,William,2480708476311,2022-06-06,Asistent
+58,Colon,George,1770708024257,2022-04-16,Asistent
+59,Tate,Joseph,2941202049611,2023-04-08,Asistent
+60,Matthews,Bryan,1290217084091,2021-01-24,Asistent
+61,James,Mary,2420215304257,2024-09-21,Asistent
+62,Butler,Anthony,2151018220855,2016-06-12,Asistent
+63,Davis,Andrew,1381026120581,2022-02-12,Asistent
+64,Phillips,Elizabeth,2480921298764,2018-07-15,Asistent
+65,Ramos,Eddie,2460208194486,2016-02-01,Asistent
+66,Mcmahon,Angie,2760507110090,2024-09-24,Asistent
+67,Sanchez,Anna,2070918362037,2015-10-28,Asistent
+68,Vance,John,1901001207494,2019-10-12,Asistent

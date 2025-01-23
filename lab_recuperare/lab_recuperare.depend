@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1736960015 source:c:\rezolvari\lab_recuperare\main.cpp
+	<iostream>
+	<vector>
+	"Produs.h"
+
+1736960094 c:\rezolvari\lab_recuperare\produs.h
+	<iostream>
+	<string.h>
+

@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1736588356 source:c:\rezolvari\proiect poo\main.cpp
+	"gestiuneAngajati.h"
+	"Manager.h"
+	"Operator_Comenzi.h"
+	"Asistent.h"
+	"gestiuneProduse.h"
+	"Articol_Vestimentar.h"
+	"Disc.h"
+	"Disc_Vintage.h"
+	"gestiuneComenzi.h"
+	<iostream>
+
+1736787497 source:c:\rezolvari\proiect poo\utils.cpp
+	"utils.h"
+
+1736792965 c:\rezolvari\proiect poo\utils.h
+	<iostream>
+	<chrono>
+	<memory>
+	<string>
+	<ctime>
+
+1736776680 source:c:\rezolvari\proiect poo\asistent.cpp
+	"Asistent.h"
+	"utils.h"
+
+1736767908 c:\rezolvari\proiect poo\asistent.h
+	"Angajat.h"
+
+1736749123 c:\rezolvari\proiect poo\angajat.h
+	<string>
+	<ctime>
+	<iostream>
+
+1736768462 source:c:\rezolvari\proiect poo\manager.cpp
+	"Manager.h"
+
+1736767771 c:\rezolvari\proiect poo\manager.h
+	"Angajat.h"
+
+1736767286 source:c:\rezolvari\proiect poo\operator_comenzi.cpp
+	"Operator_Comenzi.h"
+	"Comanda.h"
+	<iostream>
+	"utils.h"
+
+1736792952 c:\rezolvari\proiect poo\operator_comenzi.h
+	"Angajat.h"
+	"Comanda.h"
+	<vector>
+	<memory>
+	<numeric>
+
+1736787497 source:c:\rezolvari\proiect poo\angajat.cpp
+	"Angajat.h"
+	"utils.h"
+
+1736776825 source:c:\rezolvari\proiect poo\gestiuneangajati.cpp
+	"gestiuneAngajati.h"
+
+1736786287 c:\rezolvari\proiect poo\gestiuneangajati.h
+	"Angajat.h"
+	"Manager.h"
+	"Operator_Comenzi.h"
+	"Asistent.h"
+	<vector>
+	<memory>
+	<algorithm>
+
+1736776079 source:c:\rezolvari\proiect poo\disc.cpp
+	"Disc.h"
+
+1736770240 c:\rezolvari\proiect poo\disc.h
+	"Produs.h"
+
+1736770208 c:\rezolvari\proiect poo\produs.h
+	<string>
+	<iostream>
+
+1736776860 source:c:\rezolvari\proiect poo\gestiuneproduse.cpp
+	"gestiuneProduse.h"
+	<iostream>
+	<algorithm>
+
+1736786127 c:\rezolvari\proiect poo\gestiuneproduse.h
+	"Produs.h"
+	"Articol_Vestimentar.h"
+	"Disc.h"
+	"Disc_Vintage.h"
+	<vector>
+	<memory>
+
+1736770319 source:c:\rezolvari\proiect poo\articol_vestimentar.cpp
+	"Articol_Vestimentar.h"
+
+1736770259 c:\rezolvari\proiect poo\articol_vestimentar.h
+	"Produs.h"
+
+1736776079 source:c:\rezolvari\proiect poo\disc_vintage.cpp
+	"Disc_Vintage.h"
+
+1736770251 c:\rezolvari\proiect poo\disc_vintage.h
+	"Disc.h"
+
+1736770205 source:c:\rezolvari\proiect poo\produs.cpp
+	"Produs.h"
+
+1736584093 source:c:\rezolvari\proiect poo\comanda.cpp
+	"Comanda.h"
+
+1736791655 c:\rezolvari\proiect poo\comanda.h
+	<vector>
+	<string>
+	<memory>
+	"Produs.h"
+
+1736787174 c:\rezolvari\proiect poo\gestiunecomenzi.h
+	"Comanda.h"
+	"Operator_Comenzi.h"
+	<vector>
+	<queue>
+	<memory>
+	<algorithm>
+
+1736787171 source:c:\rezolvari\proiect poo\gestiunecomenzi.cpp
+	"gestiuneComenzi.h"
+
